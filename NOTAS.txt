@@ -1,0 +1,28 @@
+proyecto final. tiene que tener un repaso.
+
+No dejar la camara apagada
+
+Pedir ayuda los accesos.
+
+ANACONDA O VISUAL STUDIO CODE
+
+2da clase
+en python se puede reescribir. Se puede nombrar una variable primero y despues otra.
+
+Se pueden combinar valores.
+Ejemplo dos numeros uno float (5.0 + 10) y un integro.
+
+y se pueden concatenar dos strings
+
+true + true 
+
+después tiene operadores aritmeticos
+suma resta, division y demases
+
+5 + 8
+
+para comprobar que dos numeros son iguales va el ==
+
+Python funciona con parentesis que son los que crean la función
+
+
